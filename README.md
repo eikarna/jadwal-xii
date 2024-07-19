@@ -1,4 +1,4 @@
-# jadwal-xii
+# Jadwal XII TJKT 3
 Jadwal Kelas 12 TJKT 3
 
 | Senin         | Selasa       | Rabu                                    | Kamis                                      | Jumat                               |
